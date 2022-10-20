@@ -8,7 +8,7 @@
 
 
 <br />
-<h3 align="left">Technologies I've worked with:</h3>
+<h3 align="left">Technologies I Work With:</h3>
 <p align="left">
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">   
@@ -37,6 +37,10 @@
   <!-- Sass -->
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <!-- Rals -->
+    <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
