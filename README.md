@@ -1,6 +1,6 @@
 # hi, i'm elijah 👋
 
-- 🙂 they/them, he/him
+- 🙂 any/all pronouns
 - 🧑🏽‍💻 fullstack coder
 - ✍️ part-time reader & writer
 - 👩🏽‍🎤 punk ukulele player
