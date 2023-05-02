@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, I'm elijah</h1>
+<h1 align="center">hi 👋, I'm roze 🌹 (aka elijah)</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lewiselijah/">
